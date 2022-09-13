@@ -5,4 +5,4 @@
 👨‍💻 I'm Junior Smart Contract/Blockchain Software Developer.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaMenshikova&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/AnastasiaMenshikova/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaMenshikova&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/AnastasiaMenshikova/github-readme-stats) -->
