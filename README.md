@@ -6,5 +6,15 @@
 
 👨‍💻 I'm Smart Contract/Blockchain Software Engineer.
 
+  ---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaMenshikova&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/AnastasiaMenshikova/github-readme-stats) -->
+  ### :hammer_and_wrench: Languages and Tools :
+  <div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha Framework" alt="Mocha Framework" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
