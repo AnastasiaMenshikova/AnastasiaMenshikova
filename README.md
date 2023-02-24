@@ -53,14 +53,16 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="48" height="48"/> 
       <br>Mocha Framework
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+      <td align="center" width="96">
       <a href="https://trufflesuite.com/truffle/" target="_blank" rel="noreferrer">
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="mocha" width="48" height="48"/> 
       <br>Truffle + Ganache
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="Truffle" width="48" height="48"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Truffle" width="48" height="48"/> 
       <br>Node JS
     </td>
     <td align="center" width="96">
@@ -70,4 +72,5 @@
     </td>
 
   </tr>
+
   </table>
