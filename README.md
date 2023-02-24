@@ -18,10 +18,6 @@
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="git" width="48" height="48"/> 
-      <br>Hardhat
-    </td>
-    <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> 
       <br>JavaScript
     </td>
