@@ -1,12 +1,17 @@
 <h2> Hi there 👋, My name is Anastasia! </h2>
 
+  <!-- Socials: -->
+
 [![Anastasia Menshikova Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaMenshikova)
 [![Anastasia Menshikova Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-menshikova/)
 
+  <!-- Info: -->
 
 👨‍💻 I'm Smart Contract/Blockchain Software Engineer.
 
   ---
+
+  <!-- Languages and tools: -->
 
   ### :hammer_and_wrench: Languages, Frameworks and Tools :
 
@@ -19,13 +24,18 @@
       <br>Solidity
     </td>
     <td align="center" width="96">
+      <a href="https://hardhat.org" target="_blank" rel="noreferrer">
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_hardhat.svg" width="48" height="48" alt="Hardhat" />
+      <br>Hardhat
+    </td>
+    <td align="center" width="96">
       <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> 
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.chaijs.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="mocha" width="48" height="48"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="chai" width="48" height="48"/> 
       <br>Chai Framework
     </td>
     <td align="center" width="96">
@@ -42,6 +52,16 @@
       <a href="https://mochajs.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="48" height="48"/> 
       <br>Mocha Framework
+    </td>
+    <td align="center" width="96">
+      <a href="https://trufflesuite.com/truffle/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="mocha" width="48" height="48"/> 
+      <br>Truffle + Ganache
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="Truffle" width="48" height="48"/> 
+      <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com" target="_blank" rel="noreferrer">
