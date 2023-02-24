@@ -70,7 +70,11 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> 
       <br>Git
     </td>
-
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="git" width="48" height="48"/> 
+      <br>VS code
+    </td>
   </tr>
 
   </table>
