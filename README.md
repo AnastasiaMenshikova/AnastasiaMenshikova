@@ -8,7 +8,7 @@
 
   ---
 
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: Languages, Frameworks and Tools :
 
   <div>
   <table align="left">
@@ -19,22 +19,32 @@
       <br>Solidity
     </td>
     <td align="center" width="96">
+      <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> 
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="https://www.chaijs.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="mocha" width="48" height="48"/> 
+      <br>Chai Framework
+    </td>
+    <td align="center" width="96">
+      <a href="https://nextjs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       <br>Next JS
     </td>
     <td align="center" width="96">
+      <a href="https://reactjs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> 
       <br>React JS
     </td>
     <td align="center" width="96">
+      <a href="https://mochajs.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="48" height="48"/> 
       <br>Mocha Framework
     </td>
     <td align="center" width="96">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> 
       <br>Git
     </td>
