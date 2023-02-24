@@ -1,7 +1,7 @@
 <h2> Hi there 👋, My name is Anastasia! </h2>
 
-[![Anastsia Menshikova Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaMenshikova)
-[![Anastsia Menshikova Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-menshikova-46b052121/)
+[![Anastasia Menshikova Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaMenshikova)
+[![Anastasia Menshikova Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-menshikova/)
 
 
 👨‍💻 I'm Smart Contract/Blockchain Software Engineer.
@@ -16,6 +16,10 @@
     <td align="center" width="96">
       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="git" width="48" height="48"/> 
+      <br>Hardhat
     </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> 
