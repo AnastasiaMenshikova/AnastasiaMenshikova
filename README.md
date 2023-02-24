@@ -36,7 +36,7 @@
     <td align="center" width="96">
       <a href="https://www.chaijs.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="chai" width="48" height="48"/> 
-      <br>Chai Framework
+      <br>Chai
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org" target="_blank" rel="noreferrer">
@@ -45,25 +45,25 @@
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> 
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" alt="react" width="48" height="48"/> 
       <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Truffle" width="48" height="48"/> 
+      <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="https://mochajs.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="48" height="48"/> 
       <br>Mocha Framework
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://trufflesuite.com/truffle/" target="_blank" rel="noreferrer">
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="mocha" width="48" height="48"/> 
       <br>Truffle + Ganache
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Truffle" width="48" height="48"/> 
-      <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com" target="_blank" rel="noreferrer">
