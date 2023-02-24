@@ -14,6 +14,7 @@
   <table align="left">
   <tr>
     <td align="center" width="96">
+      <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
