@@ -7,8 +7,8 @@
 
   <!-- Info: -->
 
-👨‍💻 I'm a Smart Contract Developer.
-🌱 I’m currently learning about gas optimisation and ZK-proofs.
+👨‍💻 I'm a Smart Contract Developer.<br>
+🌱 I’m currently learning about gas optimisation and ZK-proofs.<br>
 
 Open for collaborations on Web3 projects.
 
