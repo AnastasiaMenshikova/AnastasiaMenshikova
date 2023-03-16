@@ -4,11 +4,12 @@
 
 [![Anastasia Menshikova Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaMenshikova)
 [![Anastasia Menshikova Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-menshikova/)
+[![Anastasia Menshikova Portfolio](https://img.shields.io/badge/Portfolio-002C5F?style=for-the-badge&logo=ethereum&logoColor=white)](https://anastasia1337.eth.limo/)
 
   <!-- Info: -->
 
 👨‍💻 I'm a Smart Contract Developer.<br>
-🌱 I’m currently learning about gas optimisation and ZK-proofs.<br>
+🌱 I’m currently learning about gas optimization and ZK-proofs.<br>
 
 Open for collaborations on Web3 projects.
 
