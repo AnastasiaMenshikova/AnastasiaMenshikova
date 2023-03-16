@@ -1,4 +1,4 @@
-<h2> Hi there 👋, My name is Anastasia! </h2>
+<h2> Hi there 👋, my name is Anastasia! </h2>
 
   <!-- Socials: -->
 
@@ -7,13 +7,16 @@
 
   <!-- Info: -->
 
-👨‍💻 I'm Smart Contract/Blockchain Software Engineer.
+👨‍💻 I'm a Smart Contract Developer.
+🌱 I’m currently learning about gas optimisation and ZK-proofs.
 
-  ---
+Open for collaborations on Web3 projects.
+
+---
 
   <!-- Languages and tools: -->
 
-  ### :hammer_and_wrench: Languages, Frameworks and Tools :
+### :hammer_and_wrench: Languages, Frameworks and Tools :
 
   <div>
   <table align="left">
