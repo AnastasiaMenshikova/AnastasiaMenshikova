@@ -31,6 +31,11 @@ Open for collaborations on Web3 projects
       <br>Hardhat
     </td>
     <td align="center" width="96">
+      <a href="https://www.getfoundry.sh/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" width="48" height="48" alt="Foundry" />
+      <br>Foundry
+    </td>
+    <td align="center" width="96">
       <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> 
       <br>JavaScript
@@ -45,6 +50,8 @@ Open for collaborations on Web3 projects
       <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       <br>Next JS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://reactjs.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" alt="react" width="48" height="48"/> 
@@ -55,8 +62,6 @@ Open for collaborations on Web3 projects
       <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="48" height="48"/> 
       <br>Mocha Framework
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://trufflesuite.com/truffle/" target="_blank" rel="noreferrer">
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="mocha" width="48" height="48"/> 
